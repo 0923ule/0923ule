@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello👋
+***
+#### 🌱Algorithm🌱
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=l2x3ge)](https://solved.ac/l2x3ge)
+#### 🌱GitHub🌱
+[![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=0923ule&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+#### 📌Contact
+0923ule@gmail.com
 <!--
 **0923ule/0923ule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

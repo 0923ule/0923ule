@@ -9,7 +9,7 @@
 [![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=0923ule&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🌱Activitie🌱
+## 🌱Activities🌱
 - 숙명여자대학교 컴퓨터과학전공 졸업 (2019.03 ~ 2024.02)
 - ALGOS(숙명여대 알고리즘 학회) 학회원 (2020.03 ~ 2023.02)
 - ALGOS(숙명여대 알고리즘 학회) 운영진(2021.03 ~ 2022.02)
